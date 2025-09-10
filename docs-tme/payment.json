@@ -1,0 +1,21 @@
+{
+  "fixed-button-width": false,
+  "icon-position": "left",
+  "buttons": [
+    {
+      "category": "Tips",
+      "items": [
+        {
+          "title": "Square",
+          "url": "https://square.link/u/ZE9o5jaR",
+          "icon": "nimbus:money"
+        },
+        {
+          "title": "Square",
+          "url": "https://square.link/u/ZE9o5jaR",
+          "icon": "nimbus:money"
+        }
+      ]
+    }
+  ]
+}

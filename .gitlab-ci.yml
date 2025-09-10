@@ -1,0 +1,36 @@
+image: node:20
+cache:
+  paths:
+    - node_modules/
+stages:
+  - build
+  - deploy
+build:
+  stage: build
+  script:
+    - rm -rf node_modules package-lock.json
+    - npm install
+    - ls -la public/  # Debug: Verify public/ directory contents
+    - npm run build
+    - ls -la build/   # Debug: Verify build/ directory contents
+    - mv build public
+  artifacts:
+    paths:
+      - public/
+    expire_in: 1 hour
+  only:
+    - main
+pages:
+  stage: deploy
+  script:
+    - echo "Deploying to GitLab Pages"
+  artifacts:
+    paths:
+      - public/
+  environment:
+    name: production
+    url: https://dave.meralus.com
+  dependencies:
+    - build
+  only:
+    - main

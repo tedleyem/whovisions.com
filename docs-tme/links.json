@@ -1,0 +1,191 @@
+{
+  "fixed-button-width": false,
+  "icon-position": "left",
+  "buttons": [
+    {
+      "category": "Tips",
+      "items": [
+        {
+          "title": "Square",
+          "url": "https://square.link/u/ZE9o5jaR",
+          "icon": "nimbus:money"
+        }
+      ]
+    },
+    {
+      "category": "PicDrop",
+      "items": [
+        {
+          "title": "ADM Fest",
+          "url": "https://www.picdrop.com/whovisionspresents/ADM+Fest",
+          "icon": "noto-v1:camera"
+        },
+        {
+          "title": "Aka the Maid",
+          "url": "https://www.picdrop.com/whovisionspresents/Aka+the+Maid",
+          "icon": "noto-v1:camera"
+        },
+        {
+          "title": "Anime NYC 2024",
+          "url": "https://www.picdrop.com/whovisionspresents/Anime+NYC+2024",
+          "icon": "noto-v1:camera"
+        },
+        {
+          "title": "B.C. WhoModels",
+          "url": "https://www.picdrop.com/whovisionspresents/BCWhoModels",
+          "icon": "noto-v1:camera"
+        },
+        {
+          "title": "Black Fae Day 24 (MM)",
+          "url": "https://www.picdrop.com/whovisionspresents/Black+Fae+Day+24+(MM)",
+          "icon": "noto-v1:camera"
+        },
+        {
+          "title": "Blerdcon 24",
+          "url": "https://www.picdrop.com/whovisionspresents/Blerdcon+24",
+          "icon": "noto-v1:camera"
+        },
+        {
+          "title": "Blessed Hands Lola",
+          "url": "https://www.picdrop.com/whovisionspresents/Blessed+Hands+Lola",
+          "icon": "noto-v1:camera"
+        },
+        {
+          "title": "Bound n Beyond",
+          "url": "https://www.picdrop.com/whovisionspresents/Bound+n+Beyond",
+          "icon": "noto-v1:camera"
+        },
+        {
+          "title": "Brooklyn Comic Con 24",
+          "url": "https://www.picdrop.com/whovisionspresents/Brooklyn+Comic+Con+24",
+          "icon": "noto-v1:camera"
+        },
+        {
+          "title": "Bryan",
+          "url": "https://www.picdrop.com/whovisionspresents/Bryan",
+          "icon": "noto-v1:camera"
+        },
+        {
+          "title": "Cloud Cosplays 420",
+          "url": "https://www.picdrop.com/whovisionspresents/Cloud+Cosplays+420",
+          "icon": "noto-v1:camera"
+        },
+        {
+          "title": "CoExist",
+          "url": "https://www.picdrop.com/whovisionspresents/CoExist",
+          "icon": "noto-v1:camera"
+        },
+        {
+          "title": "Constantine",
+          "url": "https://www.picdrop.com/whovisionspresents/Constantine",
+          "icon": "noto-v1:camera"
+        },
+        {
+          "title": "Curly Digitals",
+          "url": "https://www.picdrop.com/whovisionspresents/Curly+Digitals",
+          "icon": "noto-v1:camera"
+        },
+        {
+          "title": "Curly Mix 64",
+          "url": "https://www.picdrop.com/whovisionspresents/Curly+Mix+64",
+          "icon": "noto-v1:camera"
+        },
+        {
+          "title": "Fantomex",
+          "url": "https://www.picdrop.com/whovisionspresents/Fantomex",
+          "icon": "noto-v1:camera"
+        },
+        {
+          "title": "FathomX",
+          "url": "https://www.picdrop.com/whovisionspresents/FathomX",
+          "icon": "noto-v1:camera"
+        },
+        {
+          "title": "Fathom X finals",
+          "url": "https://www.picdrop.com/whovisionspresents/Fantomex/Fathom+X+finals",
+          "icon": "noto-v1:camera"
+        },
+        {
+          "title": "Goddexx Snow",
+          "url": "https://www.picdrop.com/whovisionspresents/Goddexx+Snow",
+          "icon": "noto-v1:camera"
+        },
+        {
+          "title": "Heavenly Maids",
+          "url": "https://www.picdrop.com/whovisionspresents/Heavenly+Maids",
+          "icon": "noto-v1:camera"
+        },
+        {
+          "title": "K Kosplays",
+          "url": "https://www.picdrop.com/whovisionspresents/KKosplays",
+          "icon": "noto-v1:camera"
+        },
+        {
+          "title": "Kiana",
+          "url": "https://www.picdrop.com/whovisionspresents/Kiana",
+          "icon": "noto-v1:camera"
+        },
+        {
+          "title": "Mai Tai",
+          "url": "https://www.picdrop.com/whovisionspresents/Mai+Tai",
+          "icon": "noto-v1:camera"
+        },
+        {
+          "title": "Myxed Nyx",
+          "url": "https://www.example.org",
+          "icon": "noto-v1:camera"
+        },
+        {
+          "title": "Official Bad Bitch",
+          "url": "https://www.picdrop.com/whovisionspresents/Official+Bad+Bitch",
+          "icon": "noto-v1:camera"
+        },
+        {
+          "title": "OMJ Cosplay",
+          "url": "https://www.picdrop.com/whovisionspresents/OMJ+Cosplay",
+          "icon": "noto-v1:camera"
+        },
+        {
+          "title": "OWA 24",
+          "url": "https://www.picdrop.com/whovisionspresents/OWA+24",
+          "icon": "noto-v1:camera"
+        },
+        {
+          "title": "Pain and Love (collection)",
+          "url": "https://www.picdrop.com/whovisionspresents/Pain+and+Love",
+          "icon": "noto-v1:camera"
+        },
+        {
+          "title": "Plus Ultra Entertainment Anyc24",
+          "url": "https://www.picdrop.com/whovisionspresents/PUE2024",
+          "icon": "noto-v1:camera"
+        },
+        {
+          "title": "Portfolio",
+          "url": "https://www.picdrop.com/whovisionspresents/Portfolio",
+          "icon": "noto-v1:camera"
+        },
+        {
+          "title": "Sakura Soiree 24",
+          "url": "https://www.picdrop.com/whovisionspresents/Sakura+Soiree+24",
+          "icon": "noto-v1:camera"
+        },
+        {
+          "title": "Sexy Nerds 24",
+          "url": "https://www.picdrop.com/whovisionspresents/Sexy+Nerds+24",
+          "icon": "noto-v1:camera"
+        },
+        {
+          "title": "Shonen Pump Parties",
+          "url": "https://www.picdrop.com/whovisionspresents/ShonenVisions",
+          "icon": "noto-v1:camera"
+        },
+        {
+          "title": "Who Touch Grass",
+          "url": "https://www.picdrop.com/whovisionspresents/Who+Touch+Grass",
+          "icon": "noto-v1:camera"
+        }
+      ]
+    }
+  ]
+}
