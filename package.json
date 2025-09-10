@@ -2,10 +2,10 @@
     "name": "whovisions-site",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://dave.meralus.com",
     "dependencies": {
         "bootstrap": "^5.2.3",
         "emailjs-com": "^3.2.0",
+        "gh-pages": "^4.0.0",
         "react": "^18.2.0",
         "react-bootstrap": "^2.7.0",
         "react-dom": "^18.2.0",
@@ -44,7 +44,6 @@
     },
     "devDependencies": {
         "react-scripts": "^5.0.1",
-        "serve": "^14.2.5",
-        "gh-pages": "^4.0.0"
+        "serve": "^14.2.5"
     }
 }

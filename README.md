@@ -5,6 +5,12 @@ A simple portfolio template for developer/designers built with React.
 ### [https://sularem.gitlab.io/dave.meralus.com](https://dave-meralus-com-471cc5.gitlab.io/)
 ### [dave.meralus.com](https://dave.meralus.com)
 
+### Deploy to GH-PAGES 
+from a local machine run the following 
+```
+npm i 
+npm run deply 
+```
 ### Setup
 
 - src/content_options.js is like Jekylls _config.yml file 
