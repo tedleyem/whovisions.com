@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dave.meralus.com/static/css/main.b2313a35.css",
+    "main.js": "/dave.meralus.com/static/js/main.06c6331e.js",
+    "index.html": "/dave.meralus.com/index.html",
+    "main.b2313a35.css.map": "/dave.meralus.com/static/css/main.b2313a35.css.map",
+    "main.06c6331e.js.map": "/dave.meralus.com/static/js/main.06c6331e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2313a35.css",
+    "static/js/main.06c6331e.js"
+  ]
+}
